@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import requests
 
-bot = telebot.TeleBot('5459112900:AAEvKs31CeWJ6nwjBnf6bG8AwET3eY2lyJY')
+bot = telebot.TeleBot('u token')
 
 
 
