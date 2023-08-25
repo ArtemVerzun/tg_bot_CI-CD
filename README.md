@@ -7,6 +7,6 @@
 * Удаление процесса CI/CD из списка доступных.
 * Выбор одного из доступных CI/CD процессов и его запуск.
 
-![Рисунок1](https://github.com/ArtemVerzun/tg_bot_CI-CD/assets/143192676/7b769387-732e-4871-bbdc-80fa22329e93)
-![Рисунок2](https://github.com/ArtemVerzun/tg_bot_CI-CD/assets/143192676/57b190b7-8cf4-4463-9d18-abfb497bdefc)
+![Рисунок1](https://github.com/ArtemVerzun/tg_bot_CI-CD/assets/143192676/7b769387-732e-4871-bbdc-80fa22329e93)\
+![Рисунок2](https://github.com/ArtemVerzun/tg_bot_CI-CD/assets/143192676/57b190b7-8cf4-4463-9d18-abfb497bdefc)\
 ![Рисунок3](https://github.com/ArtemVerzun/tg_bot_CI-CD/assets/143192676/606d7f6b-88cf-4eeb-a0d2-1975609b1ec2)
